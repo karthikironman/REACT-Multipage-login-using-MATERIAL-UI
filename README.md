@@ -1,31 +1,7 @@
-# React Step Form
-
-> Form with multiple steps and confirmation. Frontend only, no API. Uses Material UI
-
-## Quick Start
-
-```bash
-# Install dependencies
-npm install
-
-# Serve on localhost:3000
-npm start
-
-# Build for production
-npm run build
-```
-
-## App Info
-
-### Author
-
+(22-07-2019)
 Brad Traversy
 [Traversy Media](http://www.traversymedia.com)
 
-### Version
+REACT + MATERIAL UI
 
-1.0.0
-
-### License
-
-This project is licensed under the MIT License
+INSTALL npm, node, material-ui, create-react-app( SINCE THERE IS NO NODEMODULES FOLDER) To run this project in your local machine.
